@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # smart_event_pro
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Eventopia
+Eventopia is an innovative event management platform designed to make planning and executing events seamless and extraordinary. From corporate conferences to intimate celebrations, Eventopia empowers users to create unforgettable experiences with ease.
+>>>>>>> 55143496e6bbf715e4a515ca65b59f879366700c
